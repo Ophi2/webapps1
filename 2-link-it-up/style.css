@@ -1,1 +1,47 @@
-// Your CSS code goes here
+#foo {
+  background-color: #C384FB;
+  margin: 0px;
+  padding: 7.5px;
+}
+.bar {
+  background-color: #C3F83F;
+  margin: 0px;
+  padding: 7.5px;
+  border: solid 5px red;
+}
+.rainbowsuno {
+  background-color: rgb(255, 0, 0);
+  padding: 7.5px;
+  margin: 0px;
+  border: solid 5px orange;
+}
+.rainbowsdos {
+  background-color: orange;
+  padding: 7.5px;
+  margin: 0px;
+  border: solid 5px yellow;
+}
+.rainbowstres {
+  background-color: yellow;
+  padding: 7.5px;
+  margin: 0px;
+  border: solid 5px #46A136;
+}
+.rainbowscuatro {
+  background-color: #46A136;
+  padding: 7.5px;
+  margin: 0px;
+  border: solid 5px blue;
+}
+.rainbowscinco {
+  background-color: blue;
+  padding: 7.5px;
+  margin: 0px;
+  border: solid 5px purple;
+}
+.rainbowsseis {
+  background-color: purple;
+  padding: 7.5px;
+  margin: 0px;
+  border: solid 5px pink;
+}
