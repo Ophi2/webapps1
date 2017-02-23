@@ -2,52 +2,71 @@
   background-color: #C384FB;
   margin: 0px;
   padding: 7.5px;
+  border-radius: 7.5px;
 }
-.bar {
+#bar {
   background-color: #C3F83F;
   margin: 0px;
   padding: 7.5px;
   border: solid 5px red;
+  border-radius: 7.5px;
 }
-.rainbowsuno {
+#rainbowsuno {
   background-color: rgb(255, 0, 0);
   padding: 7.5px;
   margin: 0px;
   border: solid 5px orange;
+  border-radius: 7.5px;
 }
-.rainbowsdos {
+#rainbowsdos {
   background-color: orange;
   padding: 7.5px;
   margin: 0px;
   border: solid 5px yellow;
+  border-radius: 7.5px;
 }
-.rainbowstres {
+#rainbowstres {
   background-color: yellow;
   padding: 7.5px;
   margin: 0px;
   border: solid 5px #46A136;
+  border-radius: 7.5px;
 }
-.rainbowscuatro {
+#rainbowscuatro {
   background-color: #46A136;
   padding: 7.5px;
   margin: 0px;
   border: solid 5px blue;
+  border-radius: 7.5px;
 }
-.rainbowscinco {
+#rainbowscinco {
   background-color: blue;
   padding: 7.5px;
   margin: 0px;
   border: solid 5px purple;
+  border-radius: 7.5px;
 }
-.rainbowsseis {
+#rainbowsseis {
   background-color: purple;
   padding: 7.5px;
   margin: 0px;
   border: solid 5px pink;
+  border-radius: 7.5px;
 }
-.rainbowsocho {
+#rainbowsocho {
   background-color: pink;
   padding: 7.5px;
   margin: 0px;
   border: solid 5px white;
+  border-radius: 7.5px;
+}
+#STYLIN {
+  background-color: #0064FF;
+  padding: 7.5px;
+  margin: 0px;
+  border: solid 5px white;
+  border-radius: 7.5px;
+}
+body {
+  background: black;
 }
