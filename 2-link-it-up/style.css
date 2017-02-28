@@ -67,6 +67,12 @@
   border: solid 5px white;
   border-radius: 7.5px;
 }
-body {
+#STYLIN:hover {
   background: black;
+}
+body {
+  background: grey;
+}
+element > element {
+  color: #0064FF;
 }
