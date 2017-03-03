@@ -1,12 +1,17 @@
 /*
   This will get rid of some annoying pre-loading margin/padding
 */
-
+@import
+url('https://fonts.googleapis.com/css?family=Patua+One"');
 html, body {
   padding: 0;
   margin: 0;
 }
-
 /*
   Now, your CSS
 */
+h1 {
+  font-size: 5em;
+  font-family: "Patua One", sans-serif;
+  text-align: center;
+}
