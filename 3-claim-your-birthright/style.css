@@ -19,8 +19,9 @@ h1 {
 
 h1:hover {
   color: black;
-  border: solid 3px;
+  border: 3px;
   background-color: white;
+  radius: 5px;
 }
 
 body {
@@ -32,4 +33,10 @@ body {
   color: white;
   padding-left: 15px;
 }
-¡
+
+#QUESTION {
+  text-align: center;
+  color: white;
+  font-family: "Patua One", sans-serif;
+  font-size: 2em;
+}
