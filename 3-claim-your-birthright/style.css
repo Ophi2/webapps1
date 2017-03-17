@@ -92,11 +92,3 @@ button:hover {
   font-family: "Patua One", sans-serif;
   font-size: 2em;
 }
-
-
-
-@media screen and (min-width: 480px) {
-  body {
-    background-color: red;
-  }
-}
